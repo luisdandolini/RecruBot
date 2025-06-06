@@ -1067,7 +1067,7 @@
     pathe "^2.0.3"
     unimport "^5.0.1"
 
-"@nuxt/icon@1.13.0", "@nuxt/icon@^1.12.0":
+"@nuxt/icon@^1.12.0":
   version "1.13.0"
   resolved "https://registry.yarnpkg.com/@nuxt/icon/-/icon-1.13.0.tgz#1b988b3c6988a44ba87a375f5351d18624ec02a8"
   integrity sha512-Sft1DZj/U5Up60DMnhp+hRDNDXRkMhwHocxgDkDkAPBxqR8PRyvzxcMIy3rjGMu0s+fB6ZdLs6vtaWzjWuerQQ==
